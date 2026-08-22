@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:opds="http://opds-spec.org/2010/catalog"
+      xmlns:dc="http://purl.org/dc/terms/">
+  <id>urn:uuid:cale-ove-novine</id>
+  <title>Cale-ove novine</title>
+  <updated>2026-08-22T06:09:10Z</updated>
+  <link rel="self" href="catalog.xml" type="application/atom+xml;profile=opds-catalog"/>
+  <entry>
+    <id>urn:uuid:BBC_na_srpskom_2026-08-22</id>
+    <title>BBC na srpskom</title>
+    <updated>2026-08-22T06:09:10Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/BBC_na_srpskom_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Nova_rs_2026-08-22</id>
+    <title>Nova rs</title>
+    <updated>2026-08-22T06:08:39Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Nova_rs_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Radar_2026-08-22</id>
+    <title>Radar</title>
+    <updated>2026-08-22T06:07:32Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Radar_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:N1_2026-08-22</id>
+    <title>N1</title>
+    <updated>2026-08-22T06:06:03Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/N1_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Novosti_2026-08-22</id>
+    <title>Novosti</title>
+    <updated>2026-08-22T06:05:00Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Novosti_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Blic_2026-08-22</id>
+    <title>Blic</title>
+    <updated>2026-08-22T06:03:23Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Blic_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:NIN_2026-08-22</id>
+    <title>NIN</title>
+    <updated>2026-08-22T06:02:19Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/NIN_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Vesti_Online_Frankfurtske_vesti__2026-08-22</id>
+    <title>Vesti Online Frankfurtske vesti </title>
+    <updated>2026-08-22T06:00:26Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Vesti_Online_Frankfurtske_vesti__2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Vreme_2026-08-22</id>
+    <title>Vreme</title>
+    <updated>2026-08-22T05:59:00Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Vreme_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <id>urn:uuid:Politika_2026-08-22</id>
+    <title>Politika</title>
+    <updated>2026-08-22T05:57:28Z</updated>
+    <content type="text">Izdanje od 2026-08-22</content>
+    <link rel="http://opds-spec.org/acquisition" href="epub/Politika_2026-08-22.epub" type="application/epub+zip"/>
+  </entry>
+
+</feed>
